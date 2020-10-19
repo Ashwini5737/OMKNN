@@ -9,4 +9,10 @@ We can make KNN efficient by doing some computational work during training. We h
 
 # OMKNN
 Further modifications to MKNN for the optimization purpose and the proposed approach is called OMKNN. The main purpose is to use a m > 1 dimensional vector of distance
-parameters for m class training set. The proposed OMKNN approach is expected to further reduce the group prototypes, since,
+parameters for m class training set. The proposed OMKNN approach is expected to further reduce the group prototypes.
+
+# Datasets
+ Iris data set available on https://archive.ics.uci.edu/ml/datasets/iris
+ Indian Liver Patient data set available on
+https://archive.ics.uci.edu/ml/datasets/ILPD+(Indian+Liver+Patient+Dataset)
+Diabetic Patient data set available on https://archive.ics.uci.edu/ml/datasets/diabetes+130-us+hospitals+for+years+1999-2008
